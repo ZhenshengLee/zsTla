@@ -1,8 +1,8 @@
 # zsTla
 
-zsTla
+Learning materials from my text book, writen by hand when I was working at ZTE in ShenZhen, China.
 
-## 参考页面
+## Reference 参考页面
 
 [罗胜金-如何用数学验证软件的正确性——TLA+学习总结](https://www.jianshu.com/p/7ae049ce4a82)
 
